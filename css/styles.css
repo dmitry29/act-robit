@@ -1,0 +1,53 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    padding: 5px;
+}
+.title > span {
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif; 
+}
+
+.text {
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.title {
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+.div-flex {
+    display: flex;
+    gap: 570px;  
+    margin-bottom: 50px;
+}
+.base-text > span {
+ margin-left: 20px;
+ margin-bottom: 30px;
+}
+
+
+
+.boxes {
+display: flex;
+width: 100%;
+margin-top: 30px;
+}
+
+.box-1 {
+    width: 50%;
+    border: 1px solid black;
+    padding: 10px;
+    margin-right: 20px;
+}
+
+.box-2 {
+    width: 50%;
+    border: 1px solid black;
+    padding: 10px;
+   
+}
