@@ -3,6 +3,8 @@
     padding: 0px;
 }
 body{
+    
+   width: 1070px;
     padding: 5px;
 }
 
@@ -28,7 +30,7 @@ h4 {
 
 .div-flex {
     display: flex;
-    gap: 570px;  
+    gap: 550px;  
     margin-bottom: 50px;
 }
 .base-text > span {
@@ -64,5 +66,5 @@ margin-top: 30px;
 }
 
 .pib {
-    margin-right: 100px;
+    margin-right: 150px;
 }
