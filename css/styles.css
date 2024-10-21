@@ -5,7 +5,9 @@
 body{
     
    width: 1070px;
-    padding: 5px;
+   padding: 5px;
+   border: 1px solid rgb(185, 185, 244);
+margin: auto;
 }
 
 h4 {
@@ -19,6 +21,8 @@ h4 {
 }
 
 .text {
+    
+    margin-top: 80px;
     font-size: 30px;
     font-family: 'Times New Roman', Times, serif;
 }
